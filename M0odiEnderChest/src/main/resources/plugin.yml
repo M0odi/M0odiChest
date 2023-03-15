@@ -1,0 +1,16 @@
+name: M0odiEnderChest
+version: '${project.version}'
+main: M0odiEnderChest.M0odiEnderChest.M0odiEnderChest
+api-version: 1.16
+prefix: M0odiEnderChest
+depend: [ Vault ]
+authors: [ M0odi ]
+description:
+  A plugin that extends the functionality of the ender chest for MineCraft Servers. Verified version: 1.16.5
+website:
+  VK - M0odi, Telegram - M0odiX, Discord - 𝙆𝙖𝙢𝙞𝙣𝙖#6102
+commands:
+  enderchest:
+    description: open virtual ender chest
+  ec:
+    description: open virtual ender chest
